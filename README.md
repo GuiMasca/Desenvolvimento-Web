@@ -6,7 +6,9 @@ HTML5
 CSS3
 JavaScript
 
+
 🌟 Projetos
+
 Laboratório 02: O primeiro projeto usando CSS mais a fundo. Trata-se dos conceitos básicos do CSS, como Lista suspensa, Lista ordenada e desordenada, inserção de gráficos, imagens e vídeos.
 
 Laboratório 04: Trata-se da criação de uma página que tem um menu interativo com 3 links diferentes para 3 páginas diferentes, sendo uma com tema de espaço, outra de tecnologia e por fim uma de natureza
